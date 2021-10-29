@@ -12,6 +12,6 @@
 
 📫  |How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/dane-brophy/)
- - [Email Me](dbrophy720@gmail.com)
+ - Email Me at: dbrophy720@gmail.com
 
 ⚡  Fun fact: I love playing, designing and podcasting about board games 🎲 📜 🎙 
