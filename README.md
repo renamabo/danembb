@@ -1,4 +1,4 @@
-### Hey there, I'm Dane! 👋
+### Hey there, I'm Dane! 🇨🇴 👋
 
 🔭  |I’m currently working on:
  - Mod 3 Group Project, Consultancy Project!
@@ -13,7 +13,5 @@
 📫  |How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/dane-brophy/)
  - [Email Me](dbrophy720@gmail.com)
-
-😄  |Pronouns: He/They
 
 ⚡  Fun fact: I love playing, designing and podcasting about board games 🎲 📜 🎙 
