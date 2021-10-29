@@ -11,4 +11,4 @@
   - [LinkedIn](https://www.linkedin.com/in/dane-brophy/)
   - [Email Me](dbrophy720@gmail.com)
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: I love playing & designing board games 📜 🎲
+- ⚡ Fun fact: I love playing, designing and podcasting about board games 🎲 📜 🎙 
