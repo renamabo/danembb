@@ -1,4 +1,4 @@
-### Hey there, I'm Dane! 🇨🇴 👋
+### Hey there, I'm Dane! 🇨🇴
 
 🔭  |I’m currently working on:
  - Mod 3 Group Project, Consultancy Project!
