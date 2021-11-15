@@ -1,7 +1,7 @@
 ### Hey there, I'm Dane! 🇨🇴 🎶 🏃🏻
 
 🔭  I’m currently working on:
- - Mod 3 Group Project, Consultancy Project!
+ - Turing School Mod 3 Solo Project, Sweater Weather!
 
 🌱  I’m currently learning:
  - How to build an API in rails
