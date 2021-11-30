@@ -1,11 +1,11 @@
-### Hey there, I'm Dane! 🇨🇴 🎶 🏃🏻
+### Hey there, I'm Dane! 🇨🇴 🎶 🏃🏻 🏳️‍🌈
 
 🔭  I’m currently working on:
- - Turing School Mod 3 Solo Project, Sweater Weather!
+ - Turing School Mod 4 Capstone Project!
 
 🌱  I’m currently learning:
- - How to build an API in rails
- - Continuous integration with TravisCI
+ - GraphQL
+ - Websockets
 
 💬  Ask me about:
  - How my project partner and I made my favorite project, [Viewing Party](https://superviewingparty.herokuapp.com/)
