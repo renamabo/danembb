@@ -4,7 +4,7 @@ I'm a developer from Denver, Colorado and am passionate about music, games and a
 
 ### About Me 🇨🇴 🏳️‍🌈 🏃
 <li> 😄 Pronouns: They/Them</li>
-<li> 🖥️ Coding Environment: 🕶️ Dark  + 🎧 Music</li> 
+<li> 🖥️ Coding Environment: 🧛🏻‍♂️ Dracula + 🎧 Music</li>
 <li> 🔭 I’m currently working a personal project: `D2RWayfinder`</li>
 <li> 🎲 I love playing, designing and podcasting about board games</li>
 <li> 🎙 Host a podcast about a horror boardgame</li>
