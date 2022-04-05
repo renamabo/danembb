@@ -1,19 +1,20 @@
 ### Hey there, I'm Dane! 
 
-I'm a developer from Denver, Colorado. I am passionate about music, games and all things horror.
+I'm a nb developer from Denver, Colorado. I am passionate about music, games and all things horror.
 
-### About Me 🇨🇴 🏳️‍🌈 🏃
+### About Me 🇨🇴 🏳️‍🌈
 <li> 😄 Pronouns: They/Them</li>
-<li> 🖥️ Coding Environment: 🧛🏻‍♂️ Dracula + 🎧 Music</li>
-<li> 🔭 I’m currently working a personal project: `D2RWayfinder`</li>
+<li> 🖥️ Coding Environment: VSCode + 🧛🏻‍♂️ Dracula + 🎧 Music</li>
+<li> 🔭 I’m currently working a personal project: `Houdini`</li>
 <li> 🎲 I love playing, designing and podcasting about board games</li>
 <li> 🎙 I Host a podcast about a horror boardgame</li>
-<li> 📖 Currently Reading: "Ubik" by Philip K. Dick && "The Ballad of Black Tom" by Victor LaValle</li>
+<li> 📖 Currently Reading: "The Ballad of Black Tom" by Victor LaValle</li>
 <li> 💎 Gaming On: Tabletop, Nintendo Switch && PC</li>
 </ul>
 
  ### Currently Learning 🌱  
-![JS](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?&style=for-the-badge&logo=graphql&logoColor=E10098)
+
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
 ### How to reach me 📫 
 <a href="https://twitter.com/dane_mbb" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/dane-brophy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
