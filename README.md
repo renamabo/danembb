@@ -1,4 +1,4 @@
-### Hey there, I'm Dane! 
+### Hey there, I'm Dana! 
 
 I'm a developer from Denver, Colorado. I am passionate about music, games and all things horror.
 
