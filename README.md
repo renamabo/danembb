@@ -6,7 +6,7 @@ I'm a developer from Denver, Colorado. I am passionate about music, games and al
 <li> 😄 Pronouns: They/Them</li>
 <li> 🖥️ Coding Environment: VSCode + 🧛🏻‍♂️ Dracula + 🎧 Music</li>
 <li> 🔭 I’m currently working a personal project: `arkham_downfall`</li>
-<li> 🎲 I love playing, designing and podcasting about board games</li>
+<li> 🎲 I love playing board games and card games</li>
 <li> 🎙 I Host a podcast about a horror boardgame</li>
 <li> 📖 Currently Reading: "Perdido Street Station" by China Miéville</li>
 <li> 💎 Gaming On: Tabletop, Nintendo Switch && PC</li>
